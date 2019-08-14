@@ -6,3 +6,7 @@
 div#tag-2 div#wall {
   display: none;
 }
+
+div#wall #tag-3.slick {
+  display: none;
+}
